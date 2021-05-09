@@ -1,3 +1,5 @@
+import javax.swing.JFrame;
+
 public class InsuranceOfficerController {
     public static void main(String[] args) {
           InsuranceOfficerView insobj = new InsuranceOfficerView ();
